@@ -1,0 +1,26 @@
+{
+  "name": "ja",
+  "version": "0.1.0",
+  "description": "js lib",
+  "main": "main.js",
+  "scripts": {
+    "test": "test test/index.js"
+  },
+  "keywords": [
+    "ja",
+    "js",
+    "lib"
+  ],
+  "author": "along",
+  "license": "MIT",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-cli": "^1.2.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-jshint": "^2.0.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^1.5.3",
+    "jshint": "^2.9.2"
+  },
+  "devDependencies": {},
+}
