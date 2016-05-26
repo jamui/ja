@@ -18,7 +18,8 @@ var jss = [
     'src/ja.format.js',
     'src/ja.utils.js',
     'src/ja.string.js',
-    'src/ja.template.js'
+    'src/ja.template.js',
+    'src/ja.feature.js'
 ];
 
 
